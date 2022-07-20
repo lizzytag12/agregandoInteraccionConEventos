@@ -33,6 +33,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.fondoTurquesa{
+
+  background-color: cyan;
+}
 .fondoMoviesList {
   background-image: url("/img/avengers.jpg");
   background-repeat: no-repeat;
