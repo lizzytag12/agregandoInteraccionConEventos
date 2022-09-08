@@ -19,7 +19,7 @@ window.onload = function () {
 
 
 
-  /*  manejadorDeEstado(); */
+  /*   manejadorDeEstado();  */
 };
 
 
@@ -49,7 +49,7 @@ let manejadorDeEstado = () => {
         console.log('wrong');
     }
     
-   } */
+   }  */
   
     // value.forEach((element, index)  => {
     
@@ -59,4 +59,5 @@ let manejadorDeEstado = () => {
 
   
 
-};
+/*  } 
+ } */
